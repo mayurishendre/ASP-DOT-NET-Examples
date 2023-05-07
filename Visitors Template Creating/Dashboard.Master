@@ -1,0 +1,179 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Dashboard.master.cs" Inherits="Visitors_Template_Creating.Dashboard" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Admin/css/style.css" rel="stylesheet" />
+    <link href="Admin/css/bootstrap.min.css" rel="stylesheet" />
+ 
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+         
+            <!--header start-->
+            <header class="header fixed-top clearfix">
+             
+                <!--logo start-->
+                <div class="brand">
+                    <a href="index.html" class="logo">flipkart
+                    </a>
+                    <div class="sidebar-toggle-box">
+                        <div class="fa fa-bars"></div>
+                    </div>
+                </div>
+                
+
+
+                <div class="nav notify-row" id="top_menu">
+                    <!--  notification start -->
+                    <ul class="nav top-menu">
+                        <!-- settings start -->
+                        <!-- settings end -->
+                        <!-- inbox dropdown start-->
+                       
+                        <!-- inbox dropdown end -->
+                        <!-- notification dropdown start-->
+                      
+                        <!-- notification dropdown end -->
+                    </ul>
+                    <!--  notification end -->
+                </div>
+                <div class="top-nav clearfix">
+                    <!--search & user info start-->
+                    <ul class="nav pull-right top-menu">
+                        <li>
+                            <input type="text" class="form-control search" placeholder=" Search">
+                        </li>
+                        <!-- user login dropdown start-->
+                        <li class="dropdown">
+                            <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                                <img alt="" src="images/2.png">
+                                <span class="username">Mayuri Shendre</span>
+                                <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu extended logout">
+                                <li><a href="#"><i class=" fa fa-suitcase"></i>Profile</a></li>
+                                <li><a href="#"><i class="fa fa-cog"></i>Settings</a></li>
+                                <li><a href="login.html"><i class="fa fa-key"></i>Log Out</a></li>
+                            </ul>
+                        </li>
+                        <!-- user login dropdown end -->
+
+                    </ul>
+                    <!--search & user info end-->
+                </div>
+            </header>
+            <!--header end-->
+            <!--sidebar start-->
+            <aside>
+                <div id="sidebar" class="nav-collapse">
+                    <!-- sidebar menu start-->
+                    <div class="leftside-navigation">
+                        <ul class="sidebar-menu" id="nav-accordion">
+                            <li>
+                                <a class="active" href="index.html">
+                                    <i class="fa fa-dashboard"></i>
+                                    <span>Dashboard</span>
+                                </a>
+                            </li>
+
+                            <li class="sub-menu">
+                                <a href="javascript:;">
+                                    <i class="fa fa-book"></i>
+                                    <span>All Categories</span>
+                                </a>
+                                <ul class="sub">
+                                    <li><a href="typography.html">Mobiles</a></li>
+                                    <li><a href="glyphicon.html">Electronics</a></li>
+                                    <li><a href="grids.html">Insurance</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="fontawesome.html">
+                                    <i class="fa fa-bullhorn"></i>
+                                    <span>My Orders</span>
+                                </a>
+                                ............... <ul class="sub">
+                                    <li><a href="typography.html">View Orders</a></li>
+                                   
+                                </ul>....................
+                            </li>
+                        
+                            <li class="sub-menu">
+                                <a href="javascript:;">
+                                    <i class="fa fa-tasks"></i>
+                                    <span>Form Components</span>
+                                </a>
+                                <ul class="sub">
+                                    <li><a href="form_component.html">Form Elements</a></li>
+                                    <li><a href="form_validation.html">Form Validation</a></li>
+                                    <li><a href="dropzone.html">Dropzone</a></li>
+                                </ul>
+                            </li>
+                            <li class="sub-menu">
+                                <a href="javascript:;">
+                                    <i class="fa fa-envelope"></i>
+                                    <span>Mail </span>
+                                </a>
+                                <ul class="sub">
+                                    <li><a href="mail.html">Inbox</a></li>
+                                    <li><a href="mail_compose.html">Compose Mail</a></li>
+                                </ul>
+                            </li>
+                            <li class="sub-menu">
+                                <a href="javascript:;">
+                                    <i class=" fa fa-bar-chart-o"></i>
+                                    <span>Charts</span>
+                                </a>
+                                <ul class="sub">
+                                    <li><a href="chartjs.html">Chart js</a></li>
+                                    <li><a href="flot_chart.html">Flot Charts</a></li>
+                                </ul>
+                            </li>
+                           
+                            <li class="sub-menu">
+                                <a href="javascript:;">
+                                    <i class="fa fa-glass"></i>
+                                    <span>Extra</span>
+                                </a>
+                                <ul class="sub">
+                                    
+                                    <li><a href="404.html">404 Error</a></li>
+                                    <li><a href="registration.html">Registration</a></li>
+                                </ul>
+                            </li>
+                           
+                            <li>
+                                <a href="login.html">
+                                    <i class="fa fa-user"></i>
+                                    <span>Login Page</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- sidebar menu end-->
+                    
+                </div>
+            </aside>
+            
+            <!--sidebar end-->
+            <!--main content start--->
+           </div>
+        <span class="glyphicon-class"> glyphiconplus 
+        </span>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+
+
+
+       
+    </form>
+</body>
+</html>

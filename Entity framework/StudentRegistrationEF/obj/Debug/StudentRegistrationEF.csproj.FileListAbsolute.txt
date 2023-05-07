@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\bin\Debug\StudentRegistrationEF.exe.config
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\bin\Debug\StudentRegistrationEF.exe
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\bin\Debug\StudentRegistrationEF.pdb
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.frmStudentEF.resources
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.exe
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.pdb
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\ASP.Net\Entity framework\StudentRegistrationEF\obj\Debug\StudentRegistrationEF.csproj.CopyComplete

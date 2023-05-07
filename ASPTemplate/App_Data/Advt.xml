@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>ba2.jpg</ImageUrl>
+		<NavigateUrl> https://www.myntra.com/jackets/campus-sutra/campus-sutra-men-brown-suede-windcheater-outdoor-bomber-jacket/14811684/buy</NavigateUrl>
+		<AlternateText>jacket </AlternateText>
+		<Impressions>1000 </Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>baa3.jpg</ImageUrl>
+		<NavigateUrl>https://www.myntra.com/shop/kids </NavigateUrl>
+		<AlternateText>oolala </AlternateText>
+		<Impressions>500 </Impressions>
+	
+	</Ad>
+	<Ad>
+		<ImageUrl>a5.png</ImageUrl>
+		<NavigateUrl>https://www.myntra.com/shop/women </NavigateUrl>
+		<AlternateText>Girlsjacket </AlternateText>
+		<Impressions>100 </Impressions>
+	</Ad>
+	
+</Advertisements>

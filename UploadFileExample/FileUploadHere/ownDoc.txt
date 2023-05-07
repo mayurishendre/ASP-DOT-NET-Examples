@@ -1,0 +1,5 @@
+hello this is my first document.
+
+    <add name="StudentEntityFrameworkEntities" connectionString="metadata=res://*/StudentModel.csdl|res://*/StudentModel.ssdl|res://*/StudentModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=StudentEntityFramework;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+<form id="form1" runat="server">
